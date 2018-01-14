@@ -1,0 +1,42 @@
+/* CSS declarations go here */
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.jumbotron {
+	min-height: 400px;
+	background: url(header.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.lesspad {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.centerLogo {
+	display: block;
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    top: 40%;
+}
+
+.rowimage {
+	height: 90%;
+	width: 90%;
+}
+
+.somepad {
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
